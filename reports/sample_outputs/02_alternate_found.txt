@@ -1,0 +1,41 @@
+ INPUT EMAIL 
+URGENT: Grounded AHMED-98. Need VLV-1010. Can accept OH condition.
+
+ EXTRACTED DATA 
+{
+    "aircraft_platform": "AHMED-98",
+    "part_number": "VLV-1010",
+    "acceptable_conditions": [
+        "OH"
+    ],
+    "certification_required": null
+}
+
+ ROUTING DECISION 
+{
+    "status": "success",
+    "part_number": "VLV-1010-MOD",
+    "description": "Upgraded Hydraulic Valve",
+    "condition": "OH",
+    "price_gbp": 6200.0,
+    "location": "London Warehouse",
+    "certification": "Dual Release EASA Form 1 / FAA 8130-3",
+    "trace_source": "Lufthansa Technik",
+    "match_type": "Alternate Match",
+    "original_request": "VLV-1010",
+    "interchangeability_notes": "Fully interchangeable per AHMED-98 IPC Rev 12"
+}
+
+ FINAL AI RESPONSE 
+Dear Customer,
+
+Regarding your request for part number VLV-1010, please note that the original component is currently out of stock.
+
+However, we are pleased to offer an approved alternate, part number VLV-1010-MOD (Upgraded Hydraulic Valve), which is immediately available. This alternate is fully interchangeable as per AHMED-98 IPC Rev 12.
+
+The price for this Overhauled (OH) unit is £6200.00, and it comes with Dual Release EASA Form 1 / FAA 8130-3 certification.
+
+Please let us know if you would like to proceed or require any further information.
+
+AOG Desk,
+Ahmed Jet Support

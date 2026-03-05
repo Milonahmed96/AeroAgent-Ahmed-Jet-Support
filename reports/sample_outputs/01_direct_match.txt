@@ -1,0 +1,34 @@
+ INPUT EMAIL 
+I need p/n APU-1998 for my LION-19 aircraft. Condition: SV.
+
+ EXTRACTED DATA 
+{
+    "aircraft_platform": "LION-19",
+    "part_number": "APU-1998",
+    "acceptable_conditions": [
+        "SV"
+    ],
+    "certification_required": null
+}
+
+ ROUTING DECISION 
+{
+    "status": "success",
+    "part_number": "APU-1998",
+    "description": "Auxiliary Power Unit",
+    "condition": "SV",
+    "price_gbp": 125000.0,
+    "location": "Bristol HQ",
+    "certification": "EASA Form 1",
+    "trace_source": "Rolls-Royce",
+    "match_type": "Direct Match"
+}
+
+ FINAL AI RESPONSE 
+Dear Customer,
+
+We are pleased to confirm immediate availability of the APU-1998 Auxiliary Power Unit. This unit is offered in SV condition, priced at £125,000.00, and is located at our Bristol HQ.
+
+The part comes with full EASA Form 1 certification and has traceable history to Rolls-Royce.
+
+AOG Desk, Ahmed Jet Support

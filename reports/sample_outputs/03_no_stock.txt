@@ -1,0 +1,23 @@
+ INPUT EMAIL 
+Looking for RAD-999. Do you have any in stock?
+
+ EXTRACTED DATA 
+{
+    "aircraft_platform": null,
+    "part_number": "RAD-999",
+    "acceptable_conditions": null,
+    "certification_required": null
+}
+
+ ROUTING DECISION 
+{
+    "status": "no_stock",
+    "message": "Part RAD-999 and its approved alternates are completely out of stock."
+}
+
+ FINAL AI RESPONSE 
+Dear Customer,
+
+We regret to inform you that part RAD-999 and its approved alternates are currently out of stock and unavailable at this time. We apologize for any inconvenience this may cause.
+
+AOG Desk, Ahmed Jet Support
